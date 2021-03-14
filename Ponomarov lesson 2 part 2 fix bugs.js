@@ -2,7 +2,7 @@
 
 //Ex.2
 
-let language = prompt("Enter the language").toLowerCase();;
+let language = prompt("Enter the language").toLowerCase();
 switch (language) {
     case 'chinese':
     case 'mandarin':
